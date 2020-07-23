@@ -1,7 +1,7 @@
 # Python Programming Challenges
 ![](https://github.com/jsextonn/python-challenges/workflows/build/badge.svg)  
 
-Collection of programming challenges that have been accumulating since 2016.
+Growing collection of programming challenges that started accumulating since 2016.
 
 ## Challenge Sources
 - CodeWars
