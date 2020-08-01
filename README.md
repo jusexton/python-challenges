@@ -28,5 +28,6 @@ Programming challenges written in the Python programming language.
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
 - Sum of Multiples 3 and 5 (https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
 - Round to Next Multiple of 5 (https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
+- Population Growth (https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 
 ### LeetCode
