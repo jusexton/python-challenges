@@ -10,6 +10,7 @@ Programming challenges written in the Python programming language.
 - Social Golfer Problem (https://www.codewars.com/kata/556c04c72ee1147ff20000c9)
 - The Observed Pin( https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - Sum of Intervals (https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+- Parse Integer Reloaded (https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 
 #### Kyu 5
 - Chain Adding (https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
