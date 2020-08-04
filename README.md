@@ -11,6 +11,7 @@ Programming challenges written in the Python programming language.
 - The Observed Pin( https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - Sum of Intervals (https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 - Parse Integer Reloaded (https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
+- Validate NxN Sudoku (https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
 
 #### Kyu 5
 - Chain Adding (https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
