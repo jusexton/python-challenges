@@ -6,6 +6,9 @@ Programming challenges written in the Python programming language.
 ## Completed Programming Challenges
 
 ### Code Wars
+#### Kyu 3
+- Last Digit of Huge Number (https://www.codewars.com/kata/5518a860a73e708c0a000027)
+
 #### Kyu 4
 - Social Golfer Problem (https://www.codewars.com/kata/556c04c72ee1147ff20000c9)
 - The Observed Pin( https://www.codewars.com/kata/5263c6999e0f40dee200059d)
@@ -20,6 +23,7 @@ Programming challenges written in the Python programming language.
 - First Non Repeating Character (https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 - Greed is Good (https://www.codewars.com/kata/5270d0d18625160ada0000e4)
 - Calculating with Functions (https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+- Last Digit of Large Number (https://www.codewars.com/kata/5511b2f550906349a70004e1)
 
 #### Kyu 6
 - Is a Number Prime (https://www.codewars.com/kata/5262119038c0985a5b00029f)
