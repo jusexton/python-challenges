@@ -24,6 +24,7 @@ Programming challenges written in the Python programming language.
 - Greed is Good (https://www.codewars.com/kata/5270d0d18625160ada0000e4)
 - Calculating with Functions (https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 - Last Digit of Large Number (https://www.codewars.com/kata/5511b2f550906349a70004e1)
+- Pagination Helper (https://www.codewars.com/kata/515bb423de843ea99400000a)
 
 #### Kyu 6
 - Is a Number Prime (https://www.codewars.com/kata/5262119038c0985a5b00029f)
