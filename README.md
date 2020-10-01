@@ -39,6 +39,7 @@ Programming challenges written in the Python programming language.
 - Round to Next Multiple of 5 (https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 - Population Growth (https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 - Anagram Detection (https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
+- Consecutive Numbers (https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
 
 #### Kyu 8
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
