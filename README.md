@@ -34,6 +34,7 @@ Programming challenges written in the Python programming language.
 - Build a Pile of Cubes (https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 - Extract Domain Name (https://www.codewars.com/kata/514a024011ea4fb54200004b)
 - What Century (https://www.codewars.com/kata/52fb87703c1351ebd200081f)
+- Triangle Number (https://www.codewars.com/kata/557e8a141ca1f4caa70000a6)
    
 #### Kyu 7
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
