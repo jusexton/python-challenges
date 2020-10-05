@@ -45,6 +45,7 @@ Programming challenges written in the Python programming language.
 - Anagram Detection (https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
 - Consecutive Numbers (https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
 - Simple String Matching (https://www.codewars.com/kata/5bc052f93f43de7054000188)
+- Mirror (https://www.codewars.com/kata/5f55ecd770692e001484af7d)
 
 #### Kyu 8
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
