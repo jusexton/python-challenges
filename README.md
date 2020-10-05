@@ -36,6 +36,7 @@ Programming challenges written in the Python programming language.
 - What Century (https://www.codewars.com/kata/52fb87703c1351ebd200081f)
 - Triangle Number (https://www.codewars.com/kata/557e8a141ca1f4caa70000a6)
 - Sum Arrays (https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
+- Frequency Sort (https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc)
    
 #### Kyu 7
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
