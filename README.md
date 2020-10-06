@@ -5,9 +5,7 @@ Programming challenges written in the Python programming language.
 
 ## Completed Programming Challenges
 
-### Code Wars 
-<img src="https://www.codewars.com/users/JSextonn/badges/large" alt="codewars badge large" />
-
+### Code Wars
 #### Kyu 3
 - Last Digit of Huge Number (https://www.codewars.com/kata/5518a860a73e708c0a000027)
 
