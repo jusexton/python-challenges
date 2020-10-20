@@ -39,6 +39,7 @@ Programming challenges written in the Python programming language.
 - Sum Arrays (https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
 - Frequency Sort (https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc)
 - Backspace (https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
+- Cut The Rope (https://www.codewars.com/kata/58ad388555bf4c80e800001e)
    
 #### Kyu 7
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
