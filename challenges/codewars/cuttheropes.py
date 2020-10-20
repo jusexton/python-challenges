@@ -1,7 +1,7 @@
 from typing import List
 
 
-def cut_the_ropes(values: List[int]):
+def cut_the_ropes(values: List[int]) -> List[int]:
     values = sorted(values)
     result = []
 
