@@ -16,6 +16,7 @@ Programming challenges written in the Python programming language.
 - Parse Integer Reloaded (https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 - Validate NxN Sudoku (https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
 - Car Mileage Interesting Numbers (https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
+- Bit Counting Segments (https://www.codewars.com/kata/596d34df24a04ee1e3000a25)
 
 #### Kyu 5
 - Chain Adding (https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
