@@ -52,6 +52,7 @@ Programming challenges written in the Python programming language.
 - Mirror (https://www.codewars.com/kata/5f55ecd770692e001484af7d)
 - Number Strings (https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)
 - Single Sum (https://www.codewars.com/kata/59f11118a5e129e591000134)
+- Capitalized Sentences (https://www.codewars.com/kata/5bf774a81505a7413400006a)
 
 #### Kyu 8
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
