@@ -42,6 +42,7 @@ Programming challenges written in the Python programming language.
 - Backspace (https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 - Cut The Rope (https://www.codewars.com/kata/58ad388555bf4c80e800001e)
 - Sum The Parts (https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+- Remove Parentheses (https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
    
 #### Kyu 7
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
