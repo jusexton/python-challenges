@@ -12,17 +12,19 @@ def expand(expression: str) -> str:
 
     return ''.join(characters)
 
-# Regex solution. Very slow :(
 # import re
-# from re import Match
 #
 #
 # def expand(expression: str) -> str:
+#     regex = re.compile(r'(?P<count>[1-9]+)\((?P<value>[a-z]+)\)|\((?P<non_repeating_value>[a-z]+)\)')
 #     while '(' in expression:
-#         expression = re.sub(r'(?P<count>[1-9]+)\((?P<value>[a-z]+)\)', expander, expression)
+#         expression = regex.sub(expander, expression)
 #
 #     return expression
 #
 #
-# def expander(match: Match) -> str:
+# def expander(match) -> str:
+#     if match.group('non_repeating_value'):
+#         return match.group('non_repeating_value')
+#
 #     return int(match.group('count')) * match.group('value')
