@@ -45,6 +45,7 @@ Programming challenges written in the Python programming language.
 - Sum The Parts (https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
 - Remove Parentheses (https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
 - Pyramid Array (https://www.codewars.com/kata/515f51d438015969f7000013)
+- Most Frequent Days (https://www.codewars.com/kata/56eb16655250549e4b0013f4)
    
 #### Kyu 7
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
