@@ -8,5 +8,5 @@ from challenges.codewars import pyramid_array
     ([[1]], 1),
     ([[1], [1, 1]], 2)
 ])
-def test_should_return_false_when_given_prime_number(expected, n):
+def test_should_return_arrays_that_form_a_pyramid(expected, n):
     assert pyramid_array.pyramid(n) == expected
