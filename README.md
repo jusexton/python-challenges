@@ -70,7 +70,7 @@ Programming challenges written in the Python programming language.
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - Return Negative (https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
-### LeetCode
+### Leetcode
 #### Hard
 - Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
@@ -80,3 +80,4 @@ Programming challenges written in the Python programming language.
 #### Easy
 - Path Sum (https://leetcode.com/problems/path-sum/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
+- Running Sum (https://leetcode.com/problems/running-sum-of-1d-array)
