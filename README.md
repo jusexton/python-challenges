@@ -5,6 +5,9 @@ Programming challenges written in the Python programming language.
 
 ## Completed Programming Challenges
 
+- [Code Wars](#code-wars)
+- [Leetcode](#leetcode)
+
 ### Code Wars
 #### Kyu 3
 - Last Digit of Huge Number (https://www.codewars.com/kata/5518a860a73e708c0a000027)
@@ -68,3 +71,12 @@ Programming challenges written in the Python programming language.
 - Return Negative (https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
 ### LeetCode
+#### Hard
+- Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+#### Medium
+- Permutations (https://leetcode.com/problems/permutations/)
+
+#### Easy
+- Path Sum (https://leetcode.com/problems/path-sum/)
+- Two Sum (https://leetcode.com/problems/two-sum/)
