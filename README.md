@@ -65,6 +65,7 @@ Programming challenges written in the Python programming language.
 - Killer (https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d)
 - Least Largest (https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)
 - Even and Odd (https://www.codewars.com/kata/583ade15666df5a64e000058)
+- Sorted Numbers (https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 
 #### Kyu 8
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
