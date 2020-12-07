@@ -84,3 +84,4 @@ Programming challenges written in the Python programming language.
 - Two Sum (https://leetcode.com/problems/two-sum/)
 - Running Sum (https://leetcode.com/problems/running-sum-of-1d-array)
 - Richest Customer (https://leetcode.com/problems/richest-customer-wealth/)
+- Goal Parser Interpretation (https://leetcode.com/problems/goal-parser-interpretation)
