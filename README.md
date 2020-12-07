@@ -70,6 +70,7 @@ Programming challenges written in the Python programming language.
 #### Kyu 8
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - Return Negative (https://www.codewars.com/kata/55685cd7ad70877c23000102)
+- Nth Power (https://www.codewars.com/kata/57d814e4950d8489720008db)
 
 ### Leetcode
 #### Hard
