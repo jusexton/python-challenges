@@ -83,3 +83,4 @@ Programming challenges written in the Python programming language.
 - Path Sum (https://leetcode.com/problems/path-sum/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
 - Running Sum (https://leetcode.com/problems/running-sum-of-1d-array)
+- Richest Customer (https://leetcode.com/problems/richest-customer-wealth/)
