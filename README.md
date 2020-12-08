@@ -91,3 +91,4 @@ Programming challenges written in the Python programming language.
 - Matrix Diagonal Sum (https://leetcode.com/problems/matrix-diagonal-sum/)
 - Frequency Sort (https://leetcode.com/problems/sort-array-by-increasing-frequency)
 - Unique Email Addresses (https://leetcode.com/problems/unique-email-addresses)
+- Can be Equal (https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)
