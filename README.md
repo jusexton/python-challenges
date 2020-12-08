@@ -89,3 +89,4 @@ Programming challenges written in the Python programming language.
 - Goal Parser Interpretation (https://leetcode.com/problems/goal-parser-interpretation)
 - Binary Search (https://leetcode.com/problems/search-in-a-binary-search-tree)
 - Matrix Diagonal Sum (https://leetcode.com/problems/matrix-diagonal-sum/)
+- Frequency Sort (https://leetcode.com/problems/sort-array-by-increasing-frequency)
