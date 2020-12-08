@@ -93,3 +93,4 @@ Programming challenges written in the Python programming language.
 - Unique Email Addresses (https://leetcode.com/problems/unique-email-addresses)
 - Can be Equal (https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)
 - Fizz Buzz (https://leetcode.com/problems/fizz-buzz)
+- Day of the Week (https://leetcode.com/problems/day-of-the-wee)
