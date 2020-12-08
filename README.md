@@ -3,6 +3,8 @@
 
 Programming challenges written in the Python programming language.
 
+Visit https://github.com/JSextonn/all-challenges if you're interested in seeing programming challenges completed in other languages.
+
 ## Completed Programming Challenges
 
 - [Code Wars](#code-wars)
