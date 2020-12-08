@@ -79,6 +79,7 @@ Programming challenges written in the Python programming language.
 #### Medium
 - Permutations (https://leetcode.com/problems/permutations/)
 - Minimum Anagram Steps (https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)
+- Max Level Sum (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)
 
 #### Easy
 - Path Sum (https://leetcode.com/problems/path-sum/)
