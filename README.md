@@ -92,3 +92,4 @@ Programming challenges written in the Python programming language.
 - Frequency Sort (https://leetcode.com/problems/sort-array-by-increasing-frequency)
 - Unique Email Addresses (https://leetcode.com/problems/unique-email-addresses)
 - Can be Equal (https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)
+- Fizz Buzz (https://leetcode.com/problems/fizz-buzz)
