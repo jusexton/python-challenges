@@ -2,7 +2,7 @@ from typing import List
 
 import pytest
 
-from challenges.leetcode import email
+from challenges.leetcode import unique_email
 
 
 @pytest.mark.parametrize('expected,emails', [
@@ -14,4 +14,4 @@ from challenges.leetcode import email
     ])
 ])
 def test_correct_number_of_emails_is_returned(expected: int, emails: List[str]):
-    assert email.unique_email_count(emails) == expected
+    assert unique_email.unique_email_count(emails) == expected
