@@ -75,6 +75,7 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - Return Negative (https://www.codewars.com/kata/55685cd7ad70877c23000102)
 - Nth Power (https://www.codewars.com/kata/57d814e4950d8489720008db)
+- Quarter Of (https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
 
 ### Leetcode
 #### Hard
