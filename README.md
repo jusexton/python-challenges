@@ -71,6 +71,7 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Palindrome Chain Length (https://www.codewars.com/kata/525f039017c7cd0e1a000a26)
 - Character Frequency (https://www.codewars.com/kata/5b358a1e228d316283001892)
 - Shared Bit Counter (https://www.codewars.com/kata/58a5aeb893b79949eb0000f1)
+- Tally (https://www.codewars.com/kata/5630d1747935943168000013)
 
 #### Kyu 8
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
