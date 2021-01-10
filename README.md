@@ -33,6 +33,7 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Pagination Helper (https://www.codewars.com/kata/515bb423de843ea99400000a)
 - ObjectId (https://www.codewars.com/kata/52fefe6cb0091856db00030e)
 - String Expansion (https://www.codewars.com/kata/5a793fdbfd8c06d07f0000d5)
+- Move Zeros (https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
 #### Kyu 6
 - Is a Number Prime (https://www.codewars.com/kata/5262119038c0985a5b00029f)
