@@ -53,6 +53,7 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Pyramid Array (https://www.codewars.com/kata/515f51d438015969f7000013)
 - Most Frequent Days (https://www.codewars.com/kata/56eb16655250549e4b0013f4)
 - Message Validator (https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc)
+- Fibonacci (https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
    
 #### Kyu 7
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
