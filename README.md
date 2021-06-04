@@ -1,9 +1,11 @@
 # Python Programming Challenges
-![](https://github.com/jsextonn/python-challenges/workflows/build/badge.svg)  
+
+![](https://github.com/jsextonn/python-challenges/workflows/build/badge.svg)
 
 Programming challenges written in the Python programming language.
 
-Visit https://github.com/JSextonn/all-challenges if you're interested in seeing programming challenges completed in other languages.
+Visit https://github.com/JSextonn/all-challenges if you're interested in seeing programming challenges completed in
+other languages.
 
 ## Completed Programming Challenges
 
@@ -11,10 +13,13 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - [Leetcode](#leetcode)
 
 ### Code Wars
+
 #### Kyu 3
+
 - Last Digit of Huge Number (https://www.codewars.com/kata/5518a860a73e708c0a000027)
 
 #### Kyu 4
+
 - Social Golfer Problem (https://www.codewars.com/kata/556c04c72ee1147ff20000c9)
 - The Observed Pin( https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - Sum of Intervals (https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
@@ -24,6 +29,7 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Bit Counting Segments (https://www.codewars.com/kata/596d34df24a04ee1e3000a25)
 
 #### Kyu 5
+
 - Chain Adding (https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
 - Interleaving Arrays (https://www.codewars.com/kata/523d2e964680d1f749000135)
 - First Non Repeating Character (https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
@@ -34,8 +40,10 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - ObjectId (https://www.codewars.com/kata/52fefe6cb0091856db00030e)
 - String Expansion (https://www.codewars.com/kata/5a793fdbfd8c06d07f0000d5)
 - Move Zeros (https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+- Hex to RGB (https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
 
 #### Kyu 6
+
 - Is a Number Prime (https://www.codewars.com/kata/5262119038c0985a5b00029f)
 - Playing with Passphrases (https://www.codewars.com/kata/559536379512a64472000053)
 - Roman Numerals Encoder (https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
@@ -55,8 +63,9 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Message Validator (https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc)
 - Fibonacci (https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
 - Linked List Length and Count (https://www.codewars.com/kata/55beec7dd347078289000021)
-   
+
 #### Kyu 7
+
 - Simple Sequence Validator (https://www.codewars.com/kata/553f01db29490a69ff000049)
 - Sum of Multiples 3 and 5 (https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
 - Round to Next Multiple of 5 (https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
@@ -78,21 +87,26 @@ Visit https://github.com/JSextonn/all-challenges if you're interested in seeing 
 - Tally (https://www.codewars.com/kata/5630d1747935943168000013)
 
 #### Kyu 8
+
 - Remove First and Last (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - Return Negative (https://www.codewars.com/kata/55685cd7ad70877c23000102)
 - Nth Power (https://www.codewars.com/kata/57d814e4950d8489720008db)
 - Quarter Of (https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
 
 ### Leetcode
+
 #### Hard
+
 - Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 #### Medium
+
 - Permutations (https://leetcode.com/problems/permutations/)
 - Minimum Anagram Steps (https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)
 - Max Level Sum (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)
 
 #### Easy
+
 - Path Sum (https://leetcode.com/problems/path-sum/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
 - Running Sum (https://leetcode.com/problems/running-sum-of-1d-array)
