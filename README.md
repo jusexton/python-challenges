@@ -27,6 +27,7 @@ other languages.
 - Validate NxN Sudoku (https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
 - Car Mileage Interesting Numbers (https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
 - Bit Counting Segments (https://www.codewars.com/kata/596d34df24a04ee1e3000a25)
+- Structure Comparison (https://www.codewars.com/kata/520446778469526ec0000001)
 
 #### Kyu 5
 
