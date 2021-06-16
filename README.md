@@ -28,6 +28,7 @@ other languages.
 - Car Mileage Interesting Numbers (https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
 - Bit Counting Segments (https://www.codewars.com/kata/596d34df24a04ee1e3000a25)
 - Structure Comparison (https://www.codewars.com/kata/520446778469526ec0000001)
+- Smallest Possible Sum (https://www.codewars.com/kata/52f677797c461daaf7000740)
 
 #### Kyu 5
 
