@@ -96,6 +96,7 @@ other languages.
 - Nth Power (https://www.codewars.com/kata/57d814e4950d8489720008db)
 - Quarter Of (https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
 - Animal Years (https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
+- Reverse Words (https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
 ### Leetcode
 
