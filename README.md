@@ -65,6 +65,7 @@ other languages.
 - Message Validator (https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc)
 - Fibonacci (https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
 - Linked List Length and Count (https://www.codewars.com/kata/55beec7dd347078289000021)
+- Pile of Towels (https://www.codewars.com/kata/61044b64704a9e0036162a1f)
 
 #### Kyu 7
 
