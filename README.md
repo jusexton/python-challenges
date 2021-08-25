@@ -43,6 +43,7 @@ other languages.
 - String Expansion (https://www.codewars.com/kata/5a793fdbfd8c06d07f0000d5)
 - Move Zeros (https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - Hex to RGB (https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
+- Contiguous Binary Array (https://www.codewars.com/kata/60aa29e3639df90049ddf73d)
 
 #### Kyu 6
 
