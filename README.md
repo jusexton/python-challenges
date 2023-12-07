@@ -112,6 +112,7 @@ other languages.
 - Permutations (https://leetcode.com/problems/permutations/)
 - Minimum Anagram Steps (https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)
 - Max Level Sum (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)
+- Majority Element (https://leetcode.com/problems/majority-element-ii/)
 
 #### Easy
 
