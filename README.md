@@ -100,6 +100,7 @@ other languages.
 - Reverse Words (https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 - Need One (https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 - Stringy (https://www.codewars.com/kata/563b74ddd19a3ad462000054)
+- Vowel Count (https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 
 ### Leetcode
 
