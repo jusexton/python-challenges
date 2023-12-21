@@ -89,6 +89,7 @@ other languages.
 - Character Frequency (https://www.codewars.com/kata/5b358a1e228d316283001892)
 - Shared Bit Counter (https://www.codewars.com/kata/58a5aeb893b79949eb0000f1)
 - Tally (https://www.codewars.com/kata/5630d1747935943168000013)
+- Jaden Casing (https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
 #### Kyu 8
 
