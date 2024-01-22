@@ -133,3 +133,4 @@ other languages.
 - Day of the Week (https://leetcode.com/problems/day-of-the-wee)
 - Valid Words (https://leetcode.com/problems/number-of-valid-words-in-a-sentence)
 - Sum Values at Indices with k Set Bits (https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)
+- Set Mismatch (https://leetcode.com/problems/set-mismatch)
