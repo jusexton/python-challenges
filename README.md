@@ -134,3 +134,4 @@ other languages.
 - Valid Words (https://leetcode.com/problems/number-of-valid-words-in-a-sentence)
 - Sum Values at Indices with k Set Bits (https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)
 - Set Mismatch (https://leetcode.com/problems/set-mismatch)
+- Good Array (https://leetcode.com/problems/check-if-array-is-good/)
