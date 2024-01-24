@@ -136,3 +136,4 @@ other languages.
 - Set Mismatch (https://leetcode.com/problems/set-mismatch)
 - Good Array (https://leetcode.com/problems/check-if-array-is-good/)
 - Dominant Index (https://leetcode.com/problems/largest-number-at-least-twice-of-others)
+- Shortest Completing Word (https://leetcode.com/problems/shortest-completing-word/)
