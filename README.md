@@ -135,3 +135,4 @@ other languages.
 - Sum Values at Indices with k Set Bits (https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)
 - Set Mismatch (https://leetcode.com/problems/set-mismatch)
 - Good Array (https://leetcode.com/problems/check-if-array-is-good/)
+- Dominant Index (https://leetcode.com/problems/largest-number-at-least-twice-of-others)
