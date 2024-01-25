@@ -116,6 +116,7 @@ other languages.
 - Max Level Sum (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)
 - Majority Element (https://leetcode.com/problems/majority-element-ii/)
 - Minimum Operations (https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
+- Minimum Shop Penalty (https://leetcode.com/problems/minimum-penalty-for-a-shop)
 
 #### Easy
 
@@ -137,3 +138,4 @@ other languages.
 - Good Array (https://leetcode.com/problems/check-if-array-is-good/)
 - Dominant Index (https://leetcode.com/problems/largest-number-at-least-twice-of-others)
 - Shortest Completing Word (https://leetcode.com/problems/shortest-completing-word/)
+- Counting Bits (https://leetcode.com/problems/counting-bits)
