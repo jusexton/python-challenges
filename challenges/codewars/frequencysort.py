@@ -5,6 +5,7 @@ def sort(items: list) -> list:
     counter = Counter(items)
     return sorted(items, key=lambda k: (-counter[k], k))
 
+
 # Original solution
 # def sort(items: list) -> list:
 #     sorted_counter = sorted(sorted(Counter(items).items(), key=lambda x: x[0]), key=lambda x: x[1], reverse=True)

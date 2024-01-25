@@ -7,5 +7,6 @@ from typing import List
 # def can_equal(target: List[int], arr: List[int]) -> bool:
 #     return functools.reduce((lambda x, y: x ^ y), target + arr, 0) == 0
 
+
 def can_equal(target: List[int], arr: List[int]) -> bool:
     return Counter(target) == Counter(arr)

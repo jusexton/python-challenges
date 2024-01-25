@@ -7,4 +7,4 @@ def first_non_repeating_letter(string):
         if letter_count_table[letter.lower()] == 1:
             return letter
 
-    return ''
+    return ""

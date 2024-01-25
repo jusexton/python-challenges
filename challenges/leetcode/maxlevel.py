@@ -12,7 +12,7 @@ class TreeNode:
 def max_level_sum(root: TreeNode) -> int:
     sums = tree_level_sums(root)
 
-    max_level, max_sum = 0, float('-inf')
+    max_level, max_sum = 0, float("-inf")
     for level, summation in sums.items():
         if summation > max_sum:
             max_level = level

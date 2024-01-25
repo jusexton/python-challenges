@@ -10,7 +10,8 @@ def expand(expression: str) -> str:
         elif character.isalpha():
             characters.appendleft(character)
 
-    return ''.join(characters)
+    return "".join(characters)
+
 
 # import re
 #

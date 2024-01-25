@@ -8,4 +8,3 @@ def palindrome_chain_length(n: int) -> int:
         count += 1
 
     return count
-

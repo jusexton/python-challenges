@@ -5,7 +5,7 @@ def sum_arrays(array_one, array_two):
         return []
 
     def array_to_int(array) -> int:
-        return int(''.join(map(str, array))) if array else 0
+        return int("".join(map(str, array))) if array else 0
 
     int_one = array_to_int(array_one)
     int_two = array_to_int(array_two)

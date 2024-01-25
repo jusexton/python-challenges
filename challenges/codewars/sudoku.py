@@ -39,7 +39,9 @@ class Sudoku(object):
         block_size = int(math.sqrt(self.size))
         for i in range(0, self.size, block_size):
             for j in range(0, self.size, block_size):
-                square_rows = [row[j:j + block_size] for row in self.data[i:i + block_size]]
+                square_rows = [
+                    row[j : j + block_size] for row in self.data[i : i + block_size]
+                ]
                 square = list(itertools.chain.from_iterable(square_rows))
                 valid_block = self._valid_group(square)
                 if not valid_block:
@@ -55,6 +57,8 @@ class Sudoku(object):
             valid_size = len(number_set) == self.size
             valid_sum = sum(numbers) == sum(number_set)
             perfect_square = is_perfect_square(len(number_set))
-            return valid_size and valid_sum and perfect_square and in_range and not_boolean
+            return (
+                valid_size and valid_sum and perfect_square and in_range and not_boolean
+            )
         except TypeError:
             return False

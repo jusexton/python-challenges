@@ -1,19 +1,9 @@
 from collections import Counter
 from typing import List
 
-TRIPLE_SCORE_TABLE = {
-    1: 1000,
-    2: 200,
-    3: 300,
-    4: 400,
-    5: 500,
-    6: 600
-}
+TRIPLE_SCORE_TABLE = {1: 1000, 2: 200, 3: 300, 4: 400, 5: 500, 6: 600}
 
-SINGLE_SCORE_TABLE = {
-    1: 100,
-    5: 50
-}
+SINGLE_SCORE_TABLE = {1: 100, 5: 50}
 
 
 def calculate_score(dice: List[int]) -> int:

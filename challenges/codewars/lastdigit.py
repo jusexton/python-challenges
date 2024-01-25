@@ -3,6 +3,7 @@ from typing import List
 
 # Both functions are two different challenges. Links are included
 
+
 # https://www.codewars.com/kata/5511b2f550906349a70004e1
 def last_of_large(base, exponent) -> int:
     return pow(base, exponent, 10)
@@ -15,8 +16,9 @@ def last_of_huge(values: List[int]) -> int:
         if n >= 4:
             n = n % 4 + 4
 
-        n = x ** n
+        n = x**n
     return n % 10
+
 
 # NOTE: Runs fairly quick locally but timing out when submitting
 # TODO: Make optimizations so that solution can be submitted and not timeout

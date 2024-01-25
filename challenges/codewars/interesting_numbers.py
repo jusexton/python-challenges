@@ -11,7 +11,7 @@ def is_interesting(number: int, awesome_phrases: List[int]) -> int:
         return string == len(string) * character and is_expected_character
 
     def is_digit_followed_by_zeroes(n: str) -> bool:
-        return n[0] != '0' and all_same_characters(n[1:], expected='0')
+        return n[0] != "0" and all_same_characters(n[1:], expected="0")
 
     def all_same(n: str) -> bool:
         return all_same_characters(n)
@@ -20,21 +20,21 @@ def is_interesting(number: int, awesome_phrases: List[int]) -> int:
         return n[::-1] == n
 
     def is_sequential_incrementing(n: str) -> bool:
-        return n in '1234567890'
+        return n in "1234567890"
 
     def is_sequential_decrementing(n: str) -> bool:
-        return n in '9876543210'
+        return n in "9876543210"
 
     def is_awesome_phrase(n: str) -> bool:
         return int(n) in awesome_phrases
 
     interesting_criteria = {
-        'is_digit_followed_by_zeroes': is_digit_followed_by_zeroes,
-        'all_same': all_same,
-        'is_palindrome': is_palindrome,
-        'is_sequential_incrementing': is_sequential_incrementing,
-        'is_sequential_decrementing': is_sequential_decrementing,
-        'is_awesome_phrase': is_awesome_phrase
+        "is_digit_followed_by_zeroes": is_digit_followed_by_zeroes,
+        "all_same": all_same,
+        "is_palindrome": is_palindrome,
+        "is_sequential_incrementing": is_sequential_incrementing,
+        "is_sequential_decrementing": is_sequential_decrementing,
+        "is_awesome_phrase": is_awesome_phrase,
     }
     criteria = interesting_criteria.values()
 

@@ -1,8 +1,11 @@
 def same_structure_as(original, other) -> bool:
-    if type(original) is list and type(other) is list:
-        return len(original) == len(other) and all(map(same_structure_as, original, other))
+    if isinstance(original, list) and isinstance(other, list):
+        return len(original) == len(other) and all(
+            map(same_structure_as, original, other)
+        )
     else:
-        return type(original) is not list and type(other) is not list
+        return not isinstance(original, list) and not isinstance(other, list)
+
 
 # First working attempt:
 # def same_structure_as(original, other) -> bool:

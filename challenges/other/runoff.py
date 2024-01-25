@@ -37,7 +37,11 @@ class InstantRunoffRound:
 
     def __calculate_eliminations(self) -> list[str]:
         vote_count_min = min(vote_count for name, vote_count in self.results.items())
-        eliminations = [name for name, vote_count in self.results.items() if vote_count == vote_count_min]
+        eliminations = [
+            name
+            for name, vote_count in self.results.items()
+            if vote_count == vote_count_min
+        ]
         return [] if len(eliminations) == len(self.results) else eliminations
 
 

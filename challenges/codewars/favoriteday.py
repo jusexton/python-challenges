@@ -6,10 +6,13 @@ from typing import List
 def most_frequent_days(year: int) -> List[str]:
     chosen_date = date(year, 1, 1)
     if calendar.isleap(year):
-        favorites = sorted([chosen_date.weekday(), (chosen_date + timedelta(1)).weekday()])
+        favorites = sorted(
+            [chosen_date.weekday(), (chosen_date + timedelta(1)).weekday()]
+        )
         return list(map(lambda x: calendar.day_name[x], favorites))
     else:
-        return [f'{chosen_date:%A}']
+        return [f"{chosen_date:%A}"]
+
 
 # def date_range(start_date, end_date):
 #     for n in range(int((end_date - start_date).days)):

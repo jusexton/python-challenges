@@ -20,4 +20,8 @@ def step_count(stair_count: int) -> int:
         state_cycles = [1, 2, 4]
         return state_cycles[stair_count - 1]
     else:
-        return step_count(stair_count - 1) + step_count(stair_count - 2) + step_count(stair_count - 3)
+        return (
+            step_count(stair_count - 1)
+            + step_count(stair_count - 2)
+            + step_count(stair_count - 3)
+        )

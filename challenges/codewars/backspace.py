@@ -1,9 +1,9 @@
 def clean_string(string: str) -> str:
     stack = []
     for character in string:
-        if character == '#' and stack:
+        if character == "#" and stack:
             stack.pop()
-        elif character != '#':
+        elif character != "#":
             stack.append(character)
 
-    return ''.join(stack)
+    return "".join(stack)

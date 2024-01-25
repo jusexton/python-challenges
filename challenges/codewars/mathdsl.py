@@ -52,6 +52,6 @@ def times(number):
 
 def divided_by(number):
     if number == 0:
-        raise ArithmeticError('Can not divide by zero')
+        raise ArithmeticError("Can not divide by zero")
 
     return lambda a: a // number

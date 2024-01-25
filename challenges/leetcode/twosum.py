@@ -11,4 +11,4 @@ def two_sum(numbers: List[int], target: int) -> List[int]:
 
         compliment_map[number] = index
 
-    raise ValueError('Given numbers does not contain the specified target')
+    raise ValueError("Given numbers does not contain the specified target")

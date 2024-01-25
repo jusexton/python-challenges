@@ -8,4 +8,3 @@ def parts_sums(arr: List[int]) -> List[int]:
         parts.append(new)
 
     return parts
-

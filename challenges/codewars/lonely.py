@@ -7,7 +7,7 @@ def loneliest(string: str) -> List[str]:
     space_dict = defaultdict(int)
     last_character = None
     for character in string.strip():
-        if character == ' ':
+        if character == " ":
             count += 1
         else:
             space_dict[character] = count
@@ -19,4 +19,8 @@ def loneliest(string: str) -> List[str]:
             count = 0
 
     highest = max(space_dict.values())
-    return [character for character, space_count in space_dict.items() if space_count == highest]
+    return [
+        character
+        for character, space_count in space_dict.items()
+        if space_count == highest
+    ]
