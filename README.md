@@ -139,3 +139,4 @@ other languages.
 - Dominant Index (https://leetcode.com/problems/largest-number-at-least-twice-of-others)
 - Shortest Completing Word (https://leetcode.com/problems/shortest-completing-word/)
 - Counting Bits (https://leetcode.com/problems/counting-bits)
+- Max Frequency Elements (https://leetcode.com/problems/count-elements-with-maximum-frequency/)
