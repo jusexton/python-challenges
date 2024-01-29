@@ -6,27 +6,15 @@ from challenges.leetcode.binarysearch import TreeNode, search
 def test_returns_subtree_of_given_found_value():
     one = TreeNode(1)
     three = TreeNode(3)
-    two = TreeNode(
-        2,
-        one,
-        three
-    )
+    two = TreeNode(2, one, three)
 
     five = TreeNode(5)
     seven = TreeNode(7)
-    six = TreeNode(
-        6,
-        five,
-        seven
-    )
+    six = TreeNode(6, five, seven)
 
-    root = TreeNode(
-        4,
-        two,
-        six
-    )
+    root = TreeNode(4, two, six)
 
-    TestCase = namedtuple('TestCase', 'expected,val')
+    TestCase = namedtuple("TestCase", "expected,val")
     test_cases = [
         TestCase(expected=root, val=4),
         TestCase(expected=three, val=3),

@@ -3,10 +3,9 @@ import pytest
 from challenges.codewars.mathdsl import *
 
 
-@pytest.mark.parametrize('expected,actual', [
-    (5, two(plus(three()))),
-    (27, zero(plus(three(times(nine())))))
-])
+@pytest.mark.parametrize(
+    "expected,actual", [(5, two(plus(three()))), (27, zero(plus(three(times(nine())))))]
+)
 def test_should_correctly_perform_calculations(expected, actual):
     assert expected == actual
 

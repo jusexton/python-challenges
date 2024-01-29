@@ -3,11 +3,9 @@ import pytest
 from challenges.codewars import npower
 
 
-@pytest.mark.parametrize('expected,array,index', [
-    (1, [1], 0),
-    (2, [1, 2, 3], 1),
-    (9, [1, 2, 3], 2)
-])
+@pytest.mark.parametrize(
+    "expected,array,index", [(1, [1], 0), (2, [1, 2, 3], 1), (9, [1, 2, 3], 2)]
+)
 def test_nth_power_returns_nth_power_of_nth_index(expected, array, index):
     assert npower.nth_power(array, index) == expected
 
