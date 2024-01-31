@@ -117,6 +117,7 @@ other languages.
 - Majority Element (https://leetcode.com/problems/majority-element-ii/)
 - Minimum Operations (https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
 - Minimum Shop Penalty (https://leetcode.com/problems/minimum-penalty-for-a-shop)
+- Reverse Polish Notation (https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 #### Easy
 
@@ -140,3 +141,4 @@ other languages.
 - Shortest Completing Word (https://leetcode.com/problems/shortest-completing-word/)
 - Counting Bits (https://leetcode.com/problems/counting-bits)
 - Max Frequency Elements (https://leetcode.com/problems/count-elements-with-maximum-frequency/)
+- Pascal Triangle (https://leetcode.com/problems/pascals-triangle/)
