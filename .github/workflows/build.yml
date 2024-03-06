@@ -25,7 +25,7 @@ jobs:
       
     - name: Install dependencies
       run: |
-        poetry instsall
+        poetry install
         poetry add ruff
     - name: Lint with ruff
       run: poetry run ruff check .
