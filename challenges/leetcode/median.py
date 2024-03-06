@@ -41,5 +41,4 @@ def median_of_merged_lists(array_one: Sequence[int], array_two: Sequence[int]) -
 def _acquire_min_max(array: Sequence[int], partition: int) -> PartitionMinMax:
     max_left = array[partition - 1] if partition > 0 else float("-inf")
     min_right = float("inf") if partition == len(array) else array[partition]
-
     return PartitionMinMax(max_left=max_left, min_right=min_right)

@@ -1,6 +1,6 @@
 import pytest
 
-from challenges.codewars.mathdsl import *
+from challenges.codewars.mathdsl import divided_by, nine, plus, three, times, two, zero
 
 
 @pytest.mark.parametrize(

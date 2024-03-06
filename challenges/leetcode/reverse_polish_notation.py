@@ -5,13 +5,13 @@ def reverse_polish_notation(tokens: list[str]) -> int:
         if token in operands:
             b, a = stack.pop(), stack.pop()
             match token:
-                case "+": 
+                case "+":
                     result = a + b
-                case "-": 
+                case "-":
                     result = a - b
-                case "*": 
+                case "*":
                     result = a * b
-                case _: 
+                case _:
                     result = int(a / b)
             stack.append(result)
         else:

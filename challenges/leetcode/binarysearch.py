@@ -8,7 +8,7 @@ class TreeNode:
         self.right = right
 
 
-def search(root: TreeNode, val: int) -> Optional[TreeNode]:
+def search(root: TreeNode | None, val: int) -> Optional[TreeNode]:
     while root:
         if val == root.val:
             return root

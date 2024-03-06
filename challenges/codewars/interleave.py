@@ -9,7 +9,7 @@ def interleave_lists(*args: List) -> List:
     if len(args) == 1:
         return args[0]
 
-    max_index = max(map(lambda l: len(l), args))
+    max_index = max(len(arg) for arg in args)
 
     for index in range(0, max_index):
         for arg in args:
