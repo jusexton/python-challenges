@@ -17,6 +17,7 @@ other languages.
 #### Kyu 3
 
 - Last Digit of Huge Number (https://www.codewars.com/kata/5518a860a73e708c0a000027)
+- Smaller than me II (https://www.codewars.com/kata/56a1c63f3bc6827e13000006)
 
 #### Kyu 4
 
@@ -90,6 +91,7 @@ other languages.
 - Shared Bit Counter (https://www.codewars.com/kata/58a5aeb893b79949eb0000f1)
 - Tally (https://www.codewars.com/kata/5630d1747935943168000013)
 - Jaden Casing (https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+- Smaller than me I (https://www.codewars.com/kata/56a1c074f87bc2201200002e)
 
 #### Kyu 8
 
