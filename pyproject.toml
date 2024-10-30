@@ -1,17 +1,13 @@
-[tool.poetry]
+[project]
 name = "python-challenges"
 version = "0.1.0"
-description = ""
-authors = ["Justin Sexton <justinsexton.dev@gmail.com>"]
+description = "Add your description here"
 readme = "README.md"
-packages = [{include = "python_challenges"}]
+requires-python = ">=3.13"
+dependencies = []
 
-[tool.poetry.dependencies]
-python = "^3.12"
-
-[tool.poetry.group.dev.dependencies]
-pytest = "^8.0.2"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "pytest>=8.3.3",
+    "ruff>=0.7.1",
+]

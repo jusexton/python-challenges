@@ -16,18 +16,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python 3.12
-      uses: actions/setup-python@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
       with:
-        python-version: 3.12
-    - name: Setup Poetry
-      uses: abatilo/actions-poetry@v2
-      
-    - name: Install dependencies
-      run: |
-        poetry install --no-root
-        poetry add ruff
-    - name: Lint
-      run: poetry run ruff check .
-    - name: Test
-      run: poetry run pytest
+        enable-cache: true
+
+    - name: Setup Python
+      run: uv python install
+
+    - name: Install the project
+      run: uv sync --all-extras --dev
+
+    - name: Run tests
+      run: uv run pytest tests
