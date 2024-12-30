@@ -148,3 +148,4 @@ other languages.
 - [Max Frequency Elements](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 - [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [Padlindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [Plus One](https://leetcode.com/problems/plus-one)
