@@ -147,3 +147,4 @@ other languages.
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [Max Frequency Elements](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 - [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [Padlindrome Number](https://leetcode.com/problems/palindrome-number/)
