@@ -11,7 +11,7 @@ class ListNode:
 
 
 def merge_two_lists(
-    self, l1: Optional[ListNode], l2: Optional[ListNode]
+    l1: Optional[ListNode], l2: Optional[ListNode]
 ) -> Optional[ListNode]:
     dummy_head = ListNode()
     tail = dummy_head

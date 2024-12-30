@@ -4,7 +4,7 @@ class ListNode:
         self.next = None
 
 
-def has_cycle(self, head: ListNode | None) -> bool:
+def has_cycle(head: ListNode | None) -> bool:
     if not head or not head.next:
         return False
 

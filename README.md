@@ -122,6 +122,7 @@ other languages.
 - [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+- [Simplify Path](https://leetcode.com/problems/simplify-path)
 
 #### Easy
 

@@ -8,7 +8,7 @@ class ListNode:
 
 
 def add_two_numbers(
-    self, l1: Optional[ListNode], l2: Optional[ListNode]
+    l1: Optional[ListNode], l2: Optional[ListNode]
 ) -> Optional[ListNode]:
     dummy_head = ListNode(0)
     tail = dummy_head
