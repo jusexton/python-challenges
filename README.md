@@ -121,6 +121,7 @@ other languages.
 - [Minimum Shop Penalty ](https://leetcode.com/problems/minimum-penalty-for-a-shop)
 - [Reverse Polish Notation ](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 
 #### Easy
 
