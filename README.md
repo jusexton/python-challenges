@@ -125,6 +125,7 @@ other languages.
 - [Simplify Path](https://leetcode.com/problems/simplify-path)
 - [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges)
 - [Insert Interval](https://leetcode.com/problems/insert-interval)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 
 #### Easy
 
