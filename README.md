@@ -123,6 +123,7 @@ other languages.
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [Simplify Path](https://leetcode.com/problems/simplify-path)
+- [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges)
 
 #### Easy
 
