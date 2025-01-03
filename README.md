@@ -127,6 +127,7 @@ other languages.
 - [Insert Interval](https://leetcode.com/problems/insert-interval)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands)
 
 #### Easy
 
