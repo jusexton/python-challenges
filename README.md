@@ -158,3 +158,4 @@ other languages.
 - [Same Tree](https://leetcode.com/problems/same-tree)
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
+- [String Matching in Array](https://leetcode.com/problems/string-matching-in-an-array)
