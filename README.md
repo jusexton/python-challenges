@@ -157,3 +157,4 @@ other languages.
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Same Tree](https://leetcode.com/problems/same-tree)
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+- [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
