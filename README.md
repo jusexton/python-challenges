@@ -160,3 +160,4 @@ other languages.
 - [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
 - [String Matching in Array](https://leetcode.com/problems/string-matching-in-an-array)
 - [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation)
+- [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
