@@ -162,3 +162,4 @@ other languages.
 - [String Matching in Array](https://leetcode.com/problems/string-matching-in-an-array)
 - [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation)
 - [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
