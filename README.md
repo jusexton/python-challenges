@@ -173,3 +173,4 @@ other languages.
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [Maximum Average SubArray I](https://leetcode.com/problems/maximum-average-subarray-i)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
+- [Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
