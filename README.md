@@ -174,3 +174,4 @@ other languages.
 - [Maximum Average SubArray I](https://leetcode.com/problems/maximum-average-subarray-i)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 - [Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
+- [Pivot Index](https://leetcode.com/problems/find-pivot-index)
