@@ -170,3 +170,4 @@ other languages.
 - [Merge Strings Alternatively](https://leetcode.com/problems/merge-strings-alternately)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroesg)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
+- [Maximum Average SubArray I](https://leetcode.com/problems/maximum-average-subarray-i)
