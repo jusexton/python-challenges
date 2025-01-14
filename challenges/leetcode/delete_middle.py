@@ -8,9 +8,9 @@ class ListNode:
 
 
 def delete_middle(head: Optional[ListNode]) -> Optional[ListNode]:
-    slow, fast = head, head.next.next
+    slow, fast = head, head.next.next  # type: ignore
     while fast and fast.next:
         fast = fast.next.next
-        slow = slow.next
-     slow.next = slow.next.next
-     return head
+        slow = slow.next  # type: ignore
+    slow.next = slow.next.next  # type: ignore
+    return head
