@@ -133,6 +133,7 @@ other languages.
 - [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
 - [Container with Most Water](https://leetcode.com/problems/container-with-most-water)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Delete the Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
 
 #### Easy
 
