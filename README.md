@@ -176,3 +176,4 @@ other languages.
 - [Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - [Pivot Index](https://leetcode.com/problems/find-pivot-index)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
+- [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
