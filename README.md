@@ -175,3 +175,4 @@ other languages.
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 - [Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - [Pivot Index](https://leetcode.com/problems/find-pivot-index)
+- [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
