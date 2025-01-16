@@ -183,3 +183,4 @@ other languages.
 - [Pivot Index](https://leetcode.com/problems/find-pivot-index)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
+- [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)
