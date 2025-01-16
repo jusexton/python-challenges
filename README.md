@@ -134,6 +134,7 @@ other languages.
 - [Container with Most Water](https://leetcode.com/problems/container-with-most-water)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Delete the Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
+- [Increasing Tripley Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)
 
 #### Easy
 
