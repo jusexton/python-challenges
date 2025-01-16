@@ -136,6 +136,7 @@ other languages.
 - [Delete the Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
 - [Increasing Tripley Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)
 - [String Compression](https://leetcode.com/problems/string-compression)
+- [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
 
 #### Easy
 
