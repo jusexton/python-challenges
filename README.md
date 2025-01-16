@@ -135,6 +135,7 @@ other languages.
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Delete the Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
 - [Increasing Tripley Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)
+- [String Compression](https://leetcode.com/problems/string-compression)
 
 #### Easy
 
