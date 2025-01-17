@@ -139,6 +139,7 @@ other languages.
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
 - [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)
 - [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string)
+- [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)
 
 #### Easy
 
