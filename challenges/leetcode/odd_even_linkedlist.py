@@ -11,15 +11,15 @@ def odd_even_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
     if head is None or head.next is None:
         return head
 
-    odd = head
-    even = head.next
+    curr_odd = head
+    curr_even = head.next
     even_head = head.next
 
-    while even and even.next:
-        odd.next = odd.next.next  # type: ignore
-        even.next = even.next.next
-        odd = odd.next
-        even = even.next
-    odd.next = even_head
+    while curr_even and curr_even.next:
+        curr_odd.next = curr_odd.next.next  # type: ignore
+        curr_even.next = curr_even.next.next
+        curr_odd = curr_odd.next
+        curr_even = curr_even.next
+    curr_odd.next = even_head
 
     return head
