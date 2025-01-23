@@ -144,6 +144,7 @@ other languages.
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)
 - [Count Sub Islands](https://leetcode.com/problems/count-sub-islands)
+- [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
 
 #### Easy
 
