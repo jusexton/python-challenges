@@ -143,6 +143,7 @@ other languages.
 - [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column)
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)
+- [Count Sub Islands](https://leetcode.com/problems/count-sub-islands)
 
 #### Easy
 
