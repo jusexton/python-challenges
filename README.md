@@ -191,3 +191,4 @@ other languages.
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)
 - [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
+- [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
