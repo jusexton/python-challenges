@@ -22,7 +22,7 @@ other languages.
 #### Kyu 4
 
 - [Social Golfer Problem](https://www.codewars.com/kata/556c04c72ee1147ff20000c9)
-- [The Observed Pin]( https://www.codewars.com/kata/5263c6999e0f40dee200059d)
+- [The Observed Pin](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 - [Parse Integer Reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 - [Validate NxN Sudoku](https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
