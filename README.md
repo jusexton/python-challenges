@@ -192,3 +192,5 @@ other languages.
 - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)
 - [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
 - [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+- [Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
+- [Is Special Array I](https://leetcode.com/problems/special-array-i/)
