@@ -194,3 +194,4 @@ other languages.
 - [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
 - [Is Special Array I](https://leetcode.com/problems/special-array-i/)
+- [Almost Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)
