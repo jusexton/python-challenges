@@ -145,6 +145,7 @@ other languages.
 - [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)
 - [Count Sub Islands](https://leetcode.com/problems/count-sub-islands)
 - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
+- [Distinct Colors](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls)
 
 #### Easy
 
@@ -195,3 +196,4 @@ other languages.
 - [Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
 - [Is Special Array I](https://leetcode.com/problems/special-array-i/)
 - [Almost Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)
+
