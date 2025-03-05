@@ -146,6 +146,7 @@ other languages.
 - [Count Sub Islands](https://leetcode.com/problems/count-sub-islands)
 - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
 - [Distinct Colors](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls)
+- [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells)
 
 #### Easy
 
