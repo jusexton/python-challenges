@@ -2,12 +2,12 @@ from collections import deque
 
 
 class TreeNode:
-    def __init__(self, data: int, nodes: list = None):
+    def __init__(self, data: int, nodes: list["TreeNode"] | None = None):
         self.data = data
         self.nodes = nodes or []
 
 
-def search(tree: TreeNode) -> list[int]:
+def search(tree: TreeNode | None) -> list[int]:
     if tree is None:
         return []
     visited, stack = [], deque([tree])

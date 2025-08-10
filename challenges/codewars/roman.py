@@ -27,7 +27,7 @@ ROMAN_NUMERAL_TABLE = [
 ]
 
 
-def roman_value(roman_character: chr) -> int:
+def roman_value(roman_character: str) -> int:
     try:
         return ROMAN_TO_INT_TABLE[roman_character]
     except KeyError:

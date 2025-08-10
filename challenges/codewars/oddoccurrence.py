@@ -1,7 +1,7 @@
 from typing import List
 
 
-def odd_occurrence(values: List[int]) -> int:
+def odd_occurrence(values: List[int]) -> int | None:
     number_frequencies = {}
 
     for value in values:
@@ -11,3 +11,5 @@ def odd_occurrence(values: List[int]) -> int:
     for key, value in number_frequencies.items():
         if value % 2 == 1:
             return key
+
+    return None

@@ -9,4 +9,4 @@ def least_larger(values: List[int], index: int) -> int:
         if target < value < possible[0]:
             possible = (value, index)
 
-    return -1 if possible[0] == math.inf else possible[1]
+    return -1 if possible[0] == math.inf else possible[1] # type: ignore

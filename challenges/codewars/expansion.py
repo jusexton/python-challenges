@@ -5,7 +5,7 @@ def expand(expression: str) -> str:
     characters = deque()
     for character in expression[::-1]:
         if character.isdigit():
-            expanded = int(character) * characters
+            expanded = characters * int(character)
             characters = deque(expanded)
         elif character.isalpha():
             characters.appendleft(character)

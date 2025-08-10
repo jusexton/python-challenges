@@ -1,5 +1,4 @@
 from string import ascii_lowercase as LOWERCASE_ALPHABET
-from typing import Dict, Optional
 
 
 def convert(string: str, offset: int) -> str:
@@ -20,12 +19,12 @@ def convert(string: str, offset: int) -> str:
     return "".join(reversed(passphrase))
 
 
-def _complement(number: int) -> int:
+def _complement(number: str) -> int:
     return 9 - int(number)
 
 
 def _convert_character(
-    character: str, translation_table: Dict[int, Optional[int]], index: int
+    character: str, translation_table: dict[int, int], index: int
 ) -> str:
     translated_character = character.lower().translate(translation_table)
     return (

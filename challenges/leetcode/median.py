@@ -6,7 +6,9 @@ PartitionMinMax = namedtuple(
 )
 
 
-def median_of_merged_lists(array_one: Sequence[int], array_two: Sequence[int]) -> float:
+def median_of_merged_lists(
+    array_one: Sequence[int], array_two: Sequence[int]
+) -> float | None:
     # Make sure larger array is on the right
     if len(array_one) > len(array_two):
         array_one, array_two = array_two, array_one
@@ -36,6 +38,8 @@ def median_of_merged_lists(array_one: Sequence[int], array_two: Sequence[int]) -
             high = partition_x - 1
         else:
             low = partition_x + 1
+
+    return None
 
 
 def _acquire_min_max(array: Sequence[int], partition: int) -> PartitionMinMax:

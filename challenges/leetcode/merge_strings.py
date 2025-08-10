@@ -7,6 +7,6 @@ def merge_alternately(word_one: str, word_two: str) -> str:
 
     if len(word_one) > count:
         res.append(word_one[count:])
-    elif len(word_two) > count
+    elif len(word_two) > count:
         res.append(word_two[count:])
     return "".join(res)
